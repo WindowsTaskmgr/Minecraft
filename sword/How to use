@@ -1,0 +1,4 @@
+The Minecraft version is 1.19.2 Forge
+
+Please use the "gradle build" command to create a jar file
+You can run Minecraft with "gradlew runclient"
